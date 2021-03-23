@@ -1,0 +1,17 @@
+body {
+background-color: rgba(48, 78, 78, 0.664);
+color:rgba(240, 240, 240, 0.637);
+font-family: Lucida Console;
+font-size: 15px;
+}
+
+h1 {
+    color:rgb(214, 221, 189);
+    font-family: Lucida Console;
+    font-size: 40px;
+    text-align: center;
+}
+
+a {
+    color:rgb(38, 42, 46)
+}
